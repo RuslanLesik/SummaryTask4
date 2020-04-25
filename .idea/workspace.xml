@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SummaryTask4:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62eb1c03-4678-4f78-ad6f-4094f4d28075" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hotel@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hotel@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hotel@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hotel: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hotel@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hotel: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hotel@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hotel: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="events" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SummaryTask4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>D</find>
+      <find>oo</find>
+      <find>data_create</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/extractor/AnswerExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/extractor/RequestExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/extractor/ReserveExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/extractor/RoomExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/extractor/UserExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/AnswerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/CommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/InvoiceServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/MessagesServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/RequestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/ReserveServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/RoomServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/AnswerDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/CommentDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/InvoiceDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/MessagesDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/RequestDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/ReserveDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/RoomDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/CommandContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/LoginCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/LogoutCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/NoCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/ChangeRoomCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/SubmitReservationCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/InvoiceCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/DeleteAnswerCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/RoomService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/RequestService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/ReserveService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/MessagesService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/InvoiceService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/AnswerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/ErrorCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/AddRoomCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/RequestListCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/UserListCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/RegistrationCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/RequestClientCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/ReservationCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/ReservationListCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/CommentCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/IndexCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/LanguageCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/ProfileCommand.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SummaryTask4" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SummaryTask4" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="226" />
+    <option name="y" value="15" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SummaryTask4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryTask4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryTask4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryTask4" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37471265" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ua.nure.lesik.SummaryTask4.web.command" />
+      <recent name="ua.nure.lesik.SummaryTask4.db.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp\images" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\test\java\ua\nure\lesik\SummaryTask4" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp\WEB-INF\jspf" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp\WEB-INF\jQuery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp\WEB-INF\jspf" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp\WEB-INF\jsp" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp\WEB-INF\jsp\client" />
+      <recent name="C:\Users\Nad\IdeaProjects\SummaryTask4\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SummaryTask4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lesik.SummaryTask4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ua.nure.lesik.SummaryTask4" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lesik.SummaryTask4.AllTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CommandTest.testLoginCommand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SummaryTask4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lesik.SummaryTask4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ua.nure.lesik.SummaryTask4" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lesik.SummaryTask4.CommandTest" />
+      <option name="METHOD_NAME" value="testLoginCommand" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SummaryTask4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lesik.SummaryTask4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ua.nure.lesik.SummaryTask4" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lesik.SummaryTask4.UserDaoTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserDaoTest.testUserDaoGetListOfAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SummaryTask4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lesik.SummaryTask4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ua.nure.lesik.SummaryTask4" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lesik.SummaryTask4.UserDaoTest" />
+      <option name="METHOD_NAME" value="testUserDaoGetListOfAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserServiceTest.testUserServiceDeleteUserByLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SummaryTask4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lesik.SummaryTask4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ua.nure.lesik.SummaryTask4" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lesik.SummaryTask4.UserServiceTest" />
+      <option name="METHOD_NAME" value="testUserServiceDeleteUserByLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SummaryTask4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SummaryTask4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49940" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SummaryTask4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9" />
+      <item itemvalue="JUnit.AllTests" />
+      <item itemvalue="JUnit.CommandTest.testLoginCommand" />
+      <item itemvalue="JUnit.UserServiceTest.testUserServiceDeleteUserByLogin" />
+      <item itemvalue="JUnit.UserDaoTest.testUserDaoGetListOfAllUsers" />
+      <item itemvalue="JUnit.UserDaoTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest" />
+        <item itemvalue="JUnit.AllTests" />
+        <item itemvalue="JUnit.UserDaoTest.testUserDaoGetListOfAllUsers" />
+        <item itemvalue="JUnit.UserServiceTest.testUserServiceDeleteUserByLogin" />
+        <item itemvalue="JUnit.CommandTest.testLoginCommand" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62eb1c03-4678-4f78-ad6f-4094f4d28075" name="Default" comment="" />
+      <created>1583933846585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583933846585</updated>
+      <workItem from="1583933851806" duration="3462000" />
+      <workItem from="1583950059350" duration="1506000" />
+      <workItem from="1584002888760" duration="6552000" />
+      <workItem from="1584026385417" duration="2039000" />
+      <workItem from="1584097267681" duration="3383000" />
+      <workItem from="1584113857549" duration="8243000" />
+      <workItem from="1584171857014" duration="26286000" />
+      <workItem from="1584209117102" duration="7068000" />
+      <workItem from="1584258169213" duration="23240000" />
+      <workItem from="1584355578292" duration="7207000" />
+      <workItem from="1584386337212" duration="4551000" />
+      <workItem from="1584458204474" duration="10614000" />
+      <workItem from="1584535245086" duration="10707000" />
+      <workItem from="1584610549522" duration="9736000" />
+      <workItem from="1584636939798" duration="101000" />
+      <workItem from="1584781456447" duration="8105000" />
+      <workItem from="1584790178791" duration="7132000" />
+      <workItem from="1584807100126" duration="4866000" />
+      <workItem from="1584863426032" duration="7059000" />
+      <workItem from="1584886677154" duration="4755000" />
+      <workItem from="1584901149996" duration="9132000" />
+      <workItem from="1584955414562" duration="14491000" />
+      <workItem from="1584983203239" duration="5762000" />
+      <workItem from="1585043551957" duration="12370000" />
+      <workItem from="1585074815941" duration="9052000" />
+      <workItem from="1585124572828" duration="7084000" />
+      <workItem from="1585139507419" duration="8844000" />
+      <workItem from="1585161350484" duration="4803000" />
+      <workItem from="1585211559469" duration="13786000" />
+      <workItem from="1585237404684" duration="15060000" />
+      <workItem from="1585300421432" duration="7921000" />
+      <workItem from="1585318270092" duration="5580000" />
+      <workItem from="1585330267958" duration="8812000" />
+      <workItem from="1585385922752" duration="6258000" />
+      <workItem from="1585402102052" duration="5218000" />
+      <workItem from="1585421926316" duration="3849000" />
+      <workItem from="1585470412495" duration="10828000" />
+      <workItem from="1585487305451" duration="11392000" />
+      <workItem from="1585509339548" duration="2554000" />
+      <workItem from="1585568525944" duration="7847000" />
+      <workItem from="1585647324851" duration="4586000" />
+      <workItem from="1585738303273" duration="1667000" />
+      <workItem from="1585760236515" duration="6927000" />
+      <workItem from="1585813845086" duration="17367000" />
+      <workItem from="1585905100019" duration="6729000" />
+      <workItem from="1585921294537" duration="9049000" />
+      <workItem from="1586164572203" duration="9665000" />
+      <workItem from="1586245800376" duration="17194000" />
+      <workItem from="1586531908243" duration="4855000" />
+      <workItem from="1586616870413" duration="6054000" />
+      <workItem from="1586692561397" duration="5479000" />
+      <workItem from="1586703913881" duration="3700000" />
+      <workItem from="1586767973045" duration="15362000" />
+      <workItem from="1586848034505" duration="8616000" />
+      <workItem from="1586871319465" duration="3942000" />
+      <workItem from="1586958469797" duration="1214000" />
+      <workItem from="1587021418407" duration="9452000" />
+      <workItem from="1587121464745" duration="9163000" />
+      <workItem from="1587130809534" duration="128000" />
+      <workItem from="1587131023671" duration="2006000" />
+      <workItem from="1587133117763" duration="1152000" />
+      <workItem from="1587203905922" duration="12076000" />
+      <workItem from="1587378328893" duration="15810000" />
+      <workItem from="1587455389276" duration="16137000" />
+      <workItem from="1587542066246" duration="1321000" />
+      <workItem from="1587559767587" duration="7451000" />
+      <workItem from="1587648299628" duration="6609000" />
+      <workItem from="1587713031465" duration="5974000" />
+      <workItem from="1587725704304" duration="11149000" />
+      <workItem from="1587741485025" duration="5970000" />
+      <workItem from="1587796407033" duration="4225000" />
+      <workItem from="1587810954023" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_testUserServiceDeleteUserByLogin - 2020.04.18 at 15h 56m 30s.xml">
+      <configuration name="UserServiceTest.testUserServiceDeleteUserByLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testUserServiceDeleteUserByLogin - 2020.04.18 at 15h 57m 19s.xml">
+      <configuration name="UserServiceTest.testUserServiceDeleteUserByLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testUserDaoGetListOfAllUsers - 2020.04.18 at 16h 07m 17s.xml">
+      <configuration name="UserDaoTest.testUserDaoGetListOfAllUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testUserDaoGetListOfAllUsers - 2020.04.18 at 16h 07m 34s.xml">
+      <configuration name="UserDaoTest.testUserDaoGetListOfAllUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testUserDaoGetListOfAllUsers - 2020.04.18 at 16h 07m 42s.xml">
+      <configuration name="UserDaoTest.testUserDaoGetListOfAllUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testUserDaoGetListOfAllUsers - 2020.04.18 at 16h 09m 48s.xml">
+      <configuration name="UserDaoTest.testUserDaoGetListOfAllUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest - 2020.04.18 at 16h 10m 34s.xml">
+      <configuration name="UserDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest - 2020.04.18 at 16h 10m 45s.xml">
+      <configuration name="UserDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2020.04.18 at 16h 11m 40s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest - 2020.04.18 at 16h 22m 05s.xml">
+      <configuration name="UserDaoTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="558562000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.32882273" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.32882273" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32882273" />
+      <window_info anchor="bottom" id="Application Servers" order="10" weight="0.32882273" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32969153" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32882273" />
+      <window_info anchor="bottom" id="Run" order="16" weight="0.6806495" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32882273" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" side_tool="true" visible="true" weight="0.23907454" />
+      <window_info id="Web" order="4" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Database" order="1" weight="0.12210797" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32969153" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.7050068" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.33423546" />
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32882273" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.47631934" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32882273" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32882273" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/tag/CaptchaTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/filter/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="65" lean-forward="true" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/filter/EncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/serviceImpl/RoomServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-923">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/mysql/MysqlRoomDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/60e9523b-93bb-4c4f-8abb-19dbf12682ff/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/hotel.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/RoomService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/RequestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/MessagesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/AnswerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/InvoiceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/service/ReserveService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/AddRoomCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/ChangeRoomCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/RequestListCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/manager/UserListCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/DeleteAnswerCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/InvoiceCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/RegistrationCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="84" selection-start-line="26" selection-start-column="84" selection-end-line="26" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/RequestClientCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/ReservationCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/ReservationListCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/client/SubmitReservationCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/CommandContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/CommentCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/ErrorCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/IndexCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/LanguageCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="19" column="84" selection-start-line="19" selection-start-column="84" selection-end-line="19" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/LoginCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/LogoutCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/NoCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/command/ProfileCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/mapper/InvoiceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/mapper/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/InvoiceDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/CommentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/AnswerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/db/dao/RoomDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/nure/lesik/SummaryTask4/web/listener/ContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1052">
+          <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SummaryTask4:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37471265" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37471265" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37471265" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37471265" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SummaryTask4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37471265" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37471265" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

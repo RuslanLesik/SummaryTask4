@@ -1,0 +1,45 @@
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel"><my:locale value="request.fill_form"/></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form class="form" method="post" enctype="multipart/form-data" action="controller">
+                <input type="hidden" name="command" value="client_request"/>
+                <input type="hidden" name="user_login" value="${user.login}"/>
+                <div class="modal-body">
+                    <label class="my-1 mr-2" for="selectNumberOfLaces"><my:locale value="table.number.of.places"/></label>
+                    <select class="custom-select my-1 mr-sm-2" id="selectNumberOfLaces" name="numbers_of_places" required>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                        <option value="4">Four</option>
+                        <option value="5">Five</option>
+                        <option value="6">Six</option>
+                    </select>
+                    <label class="my-1 mr-2" for="selectRoomClasses"><my:locale value="table.room.classes"/></label>
+                    <select class="custom-select my-1 mr-sm-2" id="selectRoomClasses" name="room_classes" required>
+                        <c:forEach items="${requestScope.roomClasses}" var="roomClass">
+                            <option value="${roomClass}">${roomClass}</option>
+                        </c:forEach>
+                    </select>
+                    <div class="form-group">
+                        <label><my:locale value="request.number_of_days"/></label><br>
+                        <input type="number"
+                               name="number_of_days"
+                               class="form-control" required/>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal"><my:locale value="request.close"/></button>
+                    <button type="submit" class="btn btn-primary"><my:locale value="request.submit"/></button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

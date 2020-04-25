@@ -1,0 +1,53 @@
+<%@ page contentType="text/html; charset=UTF-8" %>
+<script type="text/javascript">
+    $(document).ready(function () {
+        if (${language == "ru"}){
+            $('#myTable').DataTable({
+                "language": {
+                    "processing": "Подождите...",
+                    "search": "Поиск:",
+                    "lengthMenu": "Показать _MENU_ ком.",
+                    "info": "Комнаты с _START_ до _END_ из _TOTAL_ комнат",
+                    "infoEmpty": "Комнаты с 0 до 0 из 0 комнат",
+                    "infoFiltered": "(отфильтровано из _MAX_ комнат)",
+                    "infoPostFix": "",
+                    "loadingRecords": "Загрузка комнат...",
+                    "zeroRecords": "Комнаты отсутствуют.",
+                    "emptyTable": "В таблице отсутствуют данные",
+                    "paginate": {
+                        "first": "Первая",
+                        "previous": "Предыдущая",
+                        "next": "Следующая",
+                        "last": "Последняя"
+                    },
+                    "aria": {
+                        "sortAscending": ": активировать для сортировки столбца по возрастанию",
+                        "sortDescending": ": активировать для сортировки столбца по убыванию"
+                    },
+                    "select": {
+                        "rows": {
+                            "_": "Выбрано записей: %d",
+                            "0": "Кликните по записи для выбора",
+                            "1": "Выбрана одна запись"
+                        }
+                    }
+                },
+                lengthMenu: [[15, 5, 3, -1], [15, 5, 3, "Все"]],
+                "ordering": true,
+                columnDefs: [{
+                    orderable: false,
+                    targets: "no-sort"
+                }]
+            });
+        } else if(${language == "en"}){
+            $('#myTable').DataTable({
+                lengthMenu: [[15, 5, 3, -1], [15, 5, 3, "All"]],
+                "ordering": true,
+                columnDefs: [{
+                    orderable: false,
+                    targets: "no-sort"
+                }]
+            });
+        }
+    });
+</script>

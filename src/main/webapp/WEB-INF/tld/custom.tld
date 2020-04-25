@@ -1,0 +1,19 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>my</short-name>
+    <uri>http://ua/nure/lesik/SummaryTask4</uri>
+    <tag>
+        <name>locale</name>
+        <tag-class>ua.nure.lesik.SummaryTask4.web.tag.LocaleTag</tag-class>
+        <body-content>scriptless</body-content>
+        <attribute>
+            <name>value</name>
+        </attribute>
+    </tag>
+    <tag>
+        <name>captcha</name>
+        <tag-class>ua.nure.lesik.SummaryTask4.web.tag.CaptchaTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
